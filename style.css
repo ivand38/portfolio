@@ -1,0 +1,9 @@
+@font-face {
+  /* https://fonts.google.com/specimen/Montserrat */
+  font-family: "Raleway";
+  src: url(./font/Raleway.ttf) format("TrueType");
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
